@@ -1,0 +1,41 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.20.0 from /usr/local/bin/git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /Users/david/Development
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git check-ignore -v -z --stdin
+> git show :sql-intro/schema.sql
+> git show :sql-intro/schema.sql
+> git show :sql-intro/schema.sql
+> git show :sql-intro/seed.sql
+> git check-ignore -v -z --stdin
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git check-ignore -v -z --stdin
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git show :sql-intro/seed.sql
+> git check-ignore -v -z --stdin
+> git show :sql-intro/package.json
+> git show :sql-intro/package.json

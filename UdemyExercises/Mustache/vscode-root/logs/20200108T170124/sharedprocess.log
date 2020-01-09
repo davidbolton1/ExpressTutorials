@@ -1,0 +1,20 @@
+[2020-01-08 17:01:29.969] [sharedprocess] [info] main {"machineId":"3c9f31263c404f4d2ced8ab22f25f3ee7e966034b08ece2db21b5b639eb1b736","windowId":2}
+[2020-01-08 17:02:09.925] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-09 14:58:04.315] [sharedprocess] [info] Installing extension: ms-mssql.mssql
+[2020-01-09 14:58:05.414] [sharedprocess] [info] Downloaded extension: ms-mssql.mssql /var/folders/dt/5g32lbbd2xj89pmr2dt2mqs40000gn/T/7e29ac2a-1f95-4877-bad2-8599e159b9db
+[2020-01-09 14:58:16.648] [sharedprocess] [info] Extracted extension to /Users/david/.vscode/extensions/.ms-mssql.mssql-1.8.0: ms-mssql.mssql
+[2020-01-09 14:58:16.651] [sharedprocess] [info] Renamed to /Users/david/.vscode/extensions/ms-mssql.mssql-1.8.0
+[2020-01-09 14:58:16.656] [sharedprocess] [info] Installation completed. ms-mssql.mssql
+[2020-01-09 14:58:16.786] [sharedprocess] [info] Extensions installed successfully: ms-mssql.mssql
+[2020-01-09 15:02:07.828] [sharedprocess] [info] Installing extension: remimarsal.prettier-now
+[2020-01-09 15:02:09.757] [sharedprocess] [info] Downloaded extension: remimarsal.prettier-now /var/folders/dt/5g32lbbd2xj89pmr2dt2mqs40000gn/T/5aabf028-0be4-4584-9610-9210c518c8db
+[2020-01-09 15:02:28.946] [sharedprocess] [info] Extracted extension to /Users/david/.vscode/extensions/.remimarsal.prettier-now-1.4.9: remimarsal.prettier-now
+[2020-01-09 15:02:28.949] [sharedprocess] [info] Renamed to /Users/david/.vscode/extensions/remimarsal.prettier-now-1.4.9
+[2020-01-09 15:02:28.978] [sharedprocess] [info] Installation completed. remimarsal.prettier-now
+[2020-01-09 15:02:29.041] [sharedprocess] [info] Extensions installed successfully: remimarsal.prettier-now
+[2020-01-09 15:02:41.758] [sharedprocess] [info] Installing extension: hoovercj.vscode-power-mode
+[2020-01-09 15:02:43.695] [sharedprocess] [info] Downloaded extension: hoovercj.vscode-power-mode /var/folders/dt/5g32lbbd2xj89pmr2dt2mqs40000gn/T/9362e4ab-3570-49f2-9192-2c47990c5c32
+[2020-01-09 15:02:46.107] [sharedprocess] [info] Extracted extension to /Users/david/.vscode/extensions/.hoovercj.vscode-power-mode-2.2.0: hoovercj.vscode-power-mode
+[2020-01-09 15:02:46.110] [sharedprocess] [info] Renamed to /Users/david/.vscode/extensions/hoovercj.vscode-power-mode-2.2.0
+[2020-01-09 15:02:46.113] [sharedprocess] [info] Installation completed. hoovercj.vscode-power-mode
+[2020-01-09 15:02:46.300] [sharedprocess] [info] Extensions installed successfully: hoovercj.vscode-power-mode

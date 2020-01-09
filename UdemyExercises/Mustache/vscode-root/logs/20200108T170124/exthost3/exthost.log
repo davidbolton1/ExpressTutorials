@@ -1,0 +1,26 @@
+[2020-01-08 21:09:30.253] [exthost] [info] extension host started
+[2020-01-08 21:09:30.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-08 21:09:30.385] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-08 21:09:30.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-08 21:09:30.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2020-01-08 21:09:30.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-08 21:09:30.430] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2020-01-08 21:09:30.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-08 21:09:30.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2020-01-08 21:09:30.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-08 21:09:30.549] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/search-result/dist/extension.js
+[2020-01-08 21:09:30.551] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2020-01-08 21:09:30.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/david/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.29/out/src/extension
+[2020-01-08 21:09:30.599] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-08 21:09:30.599] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/david/.vscode/extensions/dbaeumer.vscode-eslint-2.0.13/client/out/extension
+[2020-01-08 21:09:30.660] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-01-08 21:09:30.660] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/david/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-01-08 21:09:30.741] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-01-08 21:09:30.741] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/david/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1456/out/prod/extension-prod
+[2020-01-08 21:09:31.518] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-01-08 21:09:31.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/david/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-01-08 21:09:33.543] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-08 21:09:33.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/david/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-08 21:09:33.628] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2020-01-08 21:09:33.628] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/david/.vscode/extensions/wakatime.vscode-wakatime-2.2.1/dist/extension
+[2020-01-08 21:09:33.685] [exthost] [info] eager extensions activated
